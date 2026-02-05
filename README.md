@@ -18,7 +18,7 @@
 ### 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,azure,aws,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,apache,c,java,azure,aws,html,css,git&theme=dark" />
 </p>
 
 ---
@@ -26,11 +26,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hariprasath1x&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hariprasath1x&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hariprasath1x&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Hariprasath1x&theme=radical&hide_border=true" />
 </p>
 
 ---
