@@ -1,16 +1,42 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hariprasath%201x&fontSize=48&fontAlignY=35&animation=fadeIn" />
 
-<!--
-**Hariprasath1x/Hariprasath1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=F75C7E&center=true&vCenter=true&width=750&lines=Python+Developer;SQL+%7C+Data+Analytics;Backend+Logic+Enthusiast;Learning+and+Building+Every+Day" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🐍 Strong foundation in **Python** and **SQL**
+- 📊 Interested in **Data Analytics & Backend Systems**
+- 🧠 Focused on writing **clean, logical, maintainable code**
+- 🚀 Learning by building real-world projects
+
+---
+
+### 🧩 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,html,css,git&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hariprasath1x&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hariprasath1x&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: (add your link)
+- 📧 Email: (add your email)
+- 🧠 Focus Areas: Python • SQL • Data Analytics
