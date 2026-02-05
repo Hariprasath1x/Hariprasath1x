@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hariprasath%201x&fontSize=48&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hariprasath%20Chandrasekaran&fontSize=48&fontAlignY=35&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=F75C7E&center=true&vCenter=true&width=750&lines=Python+Developer;SQL+%7C+Data+Analytics;Backend+Logic+Enthusiast;Learning+and+Building+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=F75C7E&center=true&vCenter=true&width=750&lines=Data+Engineer;Python+Developer;SQL+%7C+Data+Analytics;Backend+Logic+Enthusiast;Learning+and+Building+Every+Day" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🐍 Strong foundation in **Python** and **SQL**
-- 📊 Interested in **Data Analytics & Backend Systems**
+- 📊 Interested in **Data Engineering & Backend Systems**
 - 🧠 Focused on writing **clean, logical, maintainable code**
 - 🚀 Learning by building real-world projects
 
@@ -18,7 +18,7 @@
 ### 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,azure,aws,html,css,git&theme=dark" />
 </p>
 
 ---
@@ -37,6 +37,6 @@
 
 ### 🌐 Connect With Me
 
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
-- 🧠 Focus Areas: Python • SQL • Data Analytics
+- 💼 LinkedIn: https://leetcode.com/u/Hariprasath93/
+- 📧 Email: hariprasathcemail@gmail.com
+- 🧠 Focus Areas: Python • SQL • Data Engineering
