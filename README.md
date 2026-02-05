@@ -61,16 +61,6 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Hariprasath1x&theme=radical&hide_border=true"
-    referrerpolicy="no-referrer"
-  />
-</p>
-
-
----
-
 ### 🌐 Connect With Me
 
 - 💼 LinkedIn: https://leetcode.com/u/Hariprasath93/
