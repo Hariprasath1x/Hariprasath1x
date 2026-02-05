@@ -17,22 +17,65 @@
 
 ### 🧩 Tech Stack
 
+#### 🔹 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,apache,c,java,azure,aws,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" />
 </p>
+
+#### 🔹 Backend, Cloud & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws&theme=dark" />
+</p>
+- Flask  
+- Django  
+- REST API  
+
+#### 🔹 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</p>
+- SQLite  
+- PostgreSQL  
+- MongoDB  
+
+#### 🔹 Frontend Basics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+</p>
+
+#### 🔹 DevOps & Version Control
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker&theme=dark" />
+</p>
+
+#### 🔹 Data & Analytics
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- Power BI  
+- Hadoop  
+- MS Office  
+
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hariprasath1x&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
-
+📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hariprasath1x&theme=radical&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hariprasath1x&show_icons=true&theme=radical&hide_border=true"
+    referrerpolicy="no-referrer"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Hariprasath1x&theme=radical&hide_border=true"
+    referrerpolicy="no-referrer"
+  />
+</p>
+
 
 ---
 
