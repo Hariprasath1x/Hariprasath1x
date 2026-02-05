@@ -62,7 +62,7 @@
 ---
 
 ### 🌐 Connect With Me
-
-- 💼 LinkedIn: https://leetcode.com/u/Hariprasath93/
+- 💼 LinkedIn: https://www.linkedin.com/in/hariprasathc93/
 - 📧 Email: hariprasathcemail@gmail.com
+- Leetcode : https://leetcode.com/u/Hariprasath93/
 - 🧠 Focus Areas: Python • SQL • Data Engineering
