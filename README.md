@@ -1,68 +1,231 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hariprasath%20Chandrasekaran&fontSize=48&fontAlignY=35&animation=fadeIn" />
+<!-- ========================================= -->
+<!--                HEADER                      -->
+<!-- ========================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=F75C7E&center=true&vCenter=true&width=750&lines=Data+Engineer;Python+Developer;SQL+%7C+Data+Analytics;Backend+Logic+Enthusiast;Learning+and+Building+Every+Day" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Hariprasath%20Chandrasekaran&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Data%20Engineer&descAlignY=60&descSize=18"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+Engineer;Agentic+AI+Developer;Backend+Developer;Data+Engineering+Enthusiast;Building+LLM+Applications;FastAPI+%7C+LangGraph+%7C+RAG;Always+Learning+Something+New"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0891b2"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Open%20Source-blue?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
+
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🐍 Strong foundation in **Python** and **SQL**
-- 📊 Interested in **Data Engineering & Backend Systems**
-- 🧠 Focused on writing **clean, logical, maintainable code**
-- 🚀 Learning by building real-world projects
+🎓 B.Tech Artificial Intelligence & Data Science Student
 
----
+🤖 Passionate about AI Agents, LLM Applications, and Data Engineering
 
-### 🧩 Tech Stack
+⚡ Building scalable backend systems with FastAPI & Python
 
-#### 🔹 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" />
-</p>
+🧠 Exploring Agentic AI, RAG, LangGraph, and Production AI Systems
 
-#### 🔹 Backend, Cloud & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws&theme=dark" />
-</p>
-- Flask  
-- Django  
-- REST API  
+📊 Interested in Data Pipelines, ETL, Analytics, and Cloud Technologies
 
-#### 🔹 Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
-- SQLite  
-- PostgreSQL  
-- MongoDB  
-
-#### 🔹 Frontend Basics
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
-
-#### 🔹 DevOps & Version Control
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker&theme=dark" />
-</p>
-
-#### 🔹 Data & Analytics
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-- Power BI  
-- Hadoop  
-- MS Office  
-
+🚀 Learning by building real-world products
 
 ---
 
-### 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/hariprasathc93/
-- 📧 Email: hariprasathcemail@gmail.com
-- Leetcode : https://leetcode.com/u/Hariprasath93/
-- 🧠 Focus Areas: Python • SQL • Data Engineering
+# 🚀 Current Focus
+
+- 🤖 AI Agents
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚙️ FastAPI Backend Development
+- 📊 Data Engineering Pipelines
+- 🐳 Docker & Cloud Deployment
+- ☁️ AWS & Azure
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql&theme=dark"/>
+</p>
+
+---
+
+## 🤖 AI & LLM
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-5C6BC0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-blue?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark"/>
+</p>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark"/>
+</p>
+
+---
+
+## ☁️ Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,firebase&theme=dark"/>
+</p>
+
+---
+
+## 🐳 DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark"/>
+</p>
+
+---
+
+## 📊 Data Science
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 FlowForge AI | Autonomous AI-powered Data Engineering Platform |
+| 🧠 Vinaval AI | AI-powered bilingual learning platform using RAG & LLMs |
+| 💰 LedgerBud | AI Personal Finance Intelligence Platform |
+| 🍽️ Nativore | Location-aware Food Intelligence Platform |
+| 📊 Customer Churn Prediction | Machine Learning & Survival Analysis |
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💻 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 35 mins   ████████████▓░░░
+FastAPI       5 hrs 10 mins   ███████░░░░░░░░
+SQL            4 hrs 42 mins   ██████░░░░░░░░░
+Docker         2 hrs 10 mins   ███░░░░░░░░░░░░
+Markdown       1 hr 40 mins   ██░░░░░░░░░░░░░
+```
+<!--END_SECTION:waka-->
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/hariprasathc93">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:hariprasathcemail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/Hariprasath93/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building intelligent systems that solve real-world problems."*
+
+</p>
