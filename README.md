@@ -13,7 +13,7 @@
 <p align="center">
 
 <a href="https://github.com/Hariprasath93">
-<img src="https://img.shields.io/github/followers/Hariprasath93?label=Followers&style=for-the-badge&color=0891b2"/>
+<img src="https://img.shields.io/badge/Followers-10-0891b2?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://github.com/Hariprasath93?tab=repositories">
@@ -178,11 +178,11 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Heatmap
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariprasath93&theme=tokyo-night"/>
+<img src="https://ghchart.rshah.org/0891b2/Hariprasath93" alt="Hariprasath's Contribution Heatmap" />
 
 </p>
 
