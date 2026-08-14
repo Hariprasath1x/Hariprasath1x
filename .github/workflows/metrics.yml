@@ -1,0 +1,28 @@
+name: GitHub Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # Run workflow manually
+  workflow_dispatch:
+  # Run workflow when pushing on master/main
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # Must be saved as a repository secret named METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Only output the calendar plugin
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          
+          # Customization
+          filename: github-metrics-calendar.svg
+          config_timezone: Asia/Kolkata

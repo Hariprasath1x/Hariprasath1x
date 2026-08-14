@@ -182,7 +182,7 @@
 
 <p align="center">
 
-<img src="https://ghchart.rshah.org/0891b2/Hariprasath93" alt="Hariprasath's Contribution Heatmap" />
+<img src="./github-metrics-calendar.svg" alt="Hariprasath's Contribution Heatmap" />
 
 </p>
 
