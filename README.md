@@ -156,14 +156,21 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariprasath93&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com/?user=Hariprasath93&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasath93&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Hariprasath1x&theme=radical&hide_border=true"
+    referrerpolicy="no-referrer"
+  />
 </p>
 
 ---
