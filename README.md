@@ -185,16 +185,6 @@
 
 ---
 
-# 📈 Contribution Heatmap
-
-<p align="center">
-
-<img src="./github-metrics-calendar.svg" alt="Hariprasath's Contribution Heatmap" />
-
-</p>
-
----
-
 # 💻 Coding Activity
 
 <!--START_SECTION:waka-->
