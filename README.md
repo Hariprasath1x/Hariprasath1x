@@ -154,7 +154,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariprasath93&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariprasath93&custom_title=Hariprasath's%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
