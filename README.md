@@ -166,21 +166,21 @@
 
 ---
 
+# 📈 Contribution Heatmap
+
+<p align="center">
+
+<img src="./github-metrics-calendar.svg" alt="Hariprasath's Contribution Heatmap" />
+
+</p>
+
+---
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Hariprasath1x&theme=radical&hide_border=true"
     referrerpolicy="no-referrer"
   />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hariprasath93&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
 </p>
 
 ---
