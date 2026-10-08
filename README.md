@@ -150,40 +150,6 @@
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariprasath93&custom_title=Hariprasath's%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasath93&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Heatmap
-
-<p align="center">
-
-<img src="./github-metrics-calendar.svg" alt="Hariprasath's Contribution Heatmap" />
-
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Hariprasath1x&theme=radical&hide_border=true"
-    referrerpolicy="no-referrer"
-  />
-</p>
-
----
 
 # 💻 Coding Activity
 
